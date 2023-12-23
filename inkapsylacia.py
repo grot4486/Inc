@@ -34,6 +34,6 @@ class Destroyer(Orc):
         print(f'{self.name} Всё крушит')
             
 
-person1=Student('Maxim', 100, 189)
+person1=Orc('Seryy Klyk', 100, 189)
 person1.print()
 person1.study()
